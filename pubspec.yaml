@@ -1,6 +1,6 @@
 name: easy_onboarding
-description: A fully customized easy onboarding screen.
-version: 0.0.1
+description: A fully customisable easy onboarding screen with custom colors. You can add custom widgets as children for a new onboarding experience.
+version: 0.0.2
 # author: Dicksen Veloopillay <dicksenrayden@gmail.com>
 homepage: https://github.com/Dicksenz/easy_onboarding
 

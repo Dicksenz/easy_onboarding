@@ -5,6 +5,7 @@ A fully customized easy onboarding screen.
 This widget can be used as an onboarding screen, a simple walkthrough of how to use you app
 
 ![Easy Onboarding Screen demo](demo/onboarding.gif)
+![image](https://github.com/Dicksenz/easy_onboarding/tree/main/demo/onboarding.gif)
 
 <b>Usage : </b>
 
