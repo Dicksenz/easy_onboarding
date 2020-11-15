@@ -5,7 +5,13 @@ A fully customized easy onboarding screen.
 This widget can be used as an onboarding screen, a simple walkthrough of how to use you app
 
 ![Easy Onboarding Screen demo](demo/onboarding.gif)
-![image](https://github.com/Dicksenz/easy_onboarding/tree/main/demo/onboarding.gif)
+
+<div style="display:flex">
+<img width="355" alt="alert2" src="https://user-images.githubusercontent.com/44444254/99188508-d4d02600-2775-11eb-940e-a1f61ebd9bbe.png" width="200">
+<img width="344" alt="alert1" src="https://user-images.githubusercontent.com/44444254/99188586-195bc180-2776-11eb-95d6-6ee7c7b81f50.png" width="200">
+<img width="344" alt="alert1" src="https://user-images.githubusercontent.com/44444254/99188590-1b258500-2776-11eb-842c-45508c90e812.png" width="200">
+
+<div/>
 
 <b>Usage : </b>
 
