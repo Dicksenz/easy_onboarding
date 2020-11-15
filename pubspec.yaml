@@ -2,7 +2,7 @@ name: easy_onboarding
 description: A fully customized easy onboarding screen.
 version: 0.0.1
 author: Dicksen Veloopillay <dicksenrayden@gmail.com>
-homepage:
+homepage: https://github.com/Dicksenz/easy_onboarding
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
