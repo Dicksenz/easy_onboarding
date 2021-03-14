@@ -28,7 +28,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.3
   easy_onboarding:
-    path: /Users/dicksen.veloopillay/Desktop/easy_onboarding
+    path: /Users/dicksen.veloopillay/flutter-projects/easy_onboarding
 
 dev_dependencies:
   flutter_test:

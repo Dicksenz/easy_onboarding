@@ -1,12 +1,11 @@
 name: easy_onboarding
 description: A fully customisable easy onboarding screen with custom colors. You can add custom widgets as children for a new onboarding experience.
-version: 0.0.2
+version: 1.0.0
 # author: Dicksen Veloopillay <dicksenrayden@gmail.com>
 homepage: https://github.com/Dicksenz/easy_onboarding
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
-  flutter: ">=1.17.0 <2.0.0"
+  sdk: '>=2.12.0 <3.0.0'
 
 dependencies:
   flutter:

@@ -15,7 +15,7 @@ class EasyOnboarding extends StatefulWidget {
   final Function onStart;
   final Text startButtonText;
   final List<Widget> children;
-  final Color skipButtonColor;
+  final Color? skipButtonColor;
   final Text skipButtonText;
 
   EasyOnboarding({
@@ -24,15 +24,15 @@ class EasyOnboarding extends StatefulWidget {
     this.indicatorSelectedColor = Colors.red,
     this.indicatorUnselectedColor = Colors.grey,
     this.startButtonColor = Colors.red,
-    @required this.startButtonText,
+    required this.startButtonText,
     this.backButtonColor = Colors.red,
-    @required this.backButtonIcon,
+    required this.backButtonIcon,
     this.nextButtonColor = Colors.red,
-    @required this.nextButtonIcon,
-    @required this.onStart,
-    @required this.children,
+    required this.nextButtonIcon,
+    required this.onStart,
+    required this.children,
     this.skipButtonColor,
-    @required this.skipButtonText,
+    required this.skipButtonText,
   });
   @override
   _EasyOnboardingState createState() => _EasyOnboardingState();
@@ -128,7 +128,7 @@ class _EasyOnboardingState extends State<EasyOnboarding> {
                     padding: EdgeInsets.symmetric(
                       vertical: 22.0,
                     ),
-                    onPressed: widget.onStart,
+                    onPressed: widget.onStart as void Function()?,
                     child: widget.startButtonText,
                   ),
                 ),
